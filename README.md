@@ -71,3 +71,12 @@ TR-IMU2-Monitor/
 
 このプロジェクトの弊社作成部分は [MIT License](LICENSE) の下で公開されています。
 第三者ソフトウェアのライセンスについては [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) を参照してください。
+
+## 関連リポジトリ
+
+- [TR-IMU-Platform2 / TR-IMU16607 説明書 - technoroad/TR-IMU2-manual](https://github.com/technoroad/TR-IMU2-manual) 
+- [Windows用テストアプリ - technoroad/TR-IMU2-Monitor](https://github.com/technoroad/TR-IMU2-Monitor)【本書】
+- [Pythonテストアプリ - technoroad/TR-IMU2-PythonTestApp](https://github.com/technoroad/TR-IMU2-PythonTestApp)
+- [ROS2ドライバ - technoroad/ADI_IMU_TR_Driver_ROS2](https://github.com/technoroad/ADI_IMU_TR_Driver_ROS2)
+- [基板ファームウェア - technoroad/TR-IMU2-STM32](https://github.com/technoroad/TR-IMU2-STM32)
+
